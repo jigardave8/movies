@@ -1,0 +1,153 @@
+[{
+  "_id": {
+    "$oid": "632f86984e4cdda2604aad00"
+  },
+  "name": "The Lord of the Rings: The Rings of Power",
+  "image": "images/ROP.jpg",
+  "description": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth.",
+  "reviews": [
+    {
+      "rating": 5,
+      "review": "Ok So where to begin. I gave it a 2.5 stars or a 5 out of 10 because I don't want to seem like I am review bombing. I notice the positive reviews seem very general whilst the mediocre and bad reviews seem much more specific, which I find telling. Yes the Cinematography is great and most of the production values are also very good, though some are off key as well...",
+      "author": "twilbox",
+      "_id": {
+        "$oid": "632f86984e4cdda2604aad01"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1664059032379"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1664059032379"
+        }
+      }
+    },
+    {
+      "rating": 8,
+      "review": "I honestly didn't really have any expectations, except for a general respect. Respect for the source material, respect for themselves and most importantly respect for the audience..",
+      "author": "kissmyass3110",
+      "_id": {
+        "$oid": "632f86984e4cdda2604aad02"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1664059032379"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1664059032379"
+        }
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664059032379"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664059032379"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63450001f96da40142a05ec6"
+  },
+  "name": "Prey",
+  "image": "PREY.jpg",
+  "description": "Naru, a skilled warrior of the Comanche Nation, fights to protect her tribe against one of the first highly-evolved Predators to land on Earth.",
+  "reviews": [
+    {
+      "rating": 7,
+      "review": "I was sucked in from moment one, and Amber Midthunder completely captivated me for the whole runtime. It's nice to know that movies like this can still surprise me, not to mention make me stand up and cheer.",
+      "author": "cliftonofun",
+      "_id": {
+        "$oid": "63450001f96da40142a05ec7"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1665466369942"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1665466369942"
+        }
+      }
+    },
+    {
+      "rating": 8,
+      "review": "A worthy prequel to the classic.",
+      "author": "jaimemedina",
+      "_id": {
+        "$oid": "63450001f96da40142a05ec8"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1665466369943"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1665466369943"
+        }
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665466369944"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665466369944"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6347974cc5a10b4bb230fa63"
+  },
+  "name": "Us -- Movie",
+  "image": "US.jpg",
+  "description": "A family's serene beach vacation turns to chaos when their doplegenger appear and begin to terrorize them.",
+  "reviews": [
+    {
+      "rating": 7,
+      "review": "Now, in the movies defence, the sub-genre it turne out to be is very far from my favorite, so others might like it better. I've seen a lot of horror movies, and this is just not one of the best ones. It is mediocre..",
+      "author": {
+        "$oid": "6347952dc5a10b4bb230fa5c"
+      },
+      "_id": {
+        "$oid": "6347988ec5a10b4bb230fa68"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1665636494282"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1665721026043"
+        }
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665636172544"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665721026044"
+    }
+  },
+  "__v": 1
+}]
